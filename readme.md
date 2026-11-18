@@ -1,4 +1,4 @@
-# Smart Library Occupancy & Resource Intelligence System
+<img width="1910" height="918" alt="Screenshot 2026-11-18 214014" src="https://github.com/user-attachments/assets/9005d84b-3f08-4ecc-82f0-109a009cb5d8" /># Smart Library Occupancy & Resource Intelligence System
 
 ## Project Description
 
@@ -50,3 +50,8 @@ Smart-Library-Intelligence/
 ├── src/
 ├── README.md
 └── requirements.txt
+<img width="1911" height="913" alt="Screenshot 2026-11-18 213951" src="https://github.com/user-attachments/assets/b9bcc1c8-f020-44c6-a67c-a6f4e5c407ca" />
+<img width="1910" height="918" alt="Screenshot 2026-11-18 214014" src="https://github.com/user-attachments/assets/760330f3-668b-4d91-9b4d-0262f6493c78" />
+<img width="1902" height="907" alt="Screenshot 2026-11-18 214032" src="https://github.com/user-attachments/assets/4621bda2-5237-4fee-b28f-d780b84c4eaf" />
+<img width="1913" height="927" alt="Screenshot 2026-11-18 214048" src="https://github.com/user-attachments/assets/7e407e31-9e55-4aab-ab74-eddc5481d843" />
+
